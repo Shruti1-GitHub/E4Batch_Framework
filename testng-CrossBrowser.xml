@@ -5,7 +5,7 @@
 	  <parameter name="Browser" value="Firefox"></parameter>
     <classes>
      
-      <class name="contactTests.CreateContactWithLeadSource"/>
+      <class name="contactTests.TestCreateContactWithLeadSource"/>
     </classes>
   </test> <!-- Test -->
   
@@ -13,7 +13,7 @@
 	   <parameter name="Browser" value="Edge"></parameter>
     <classes>
       
-      <class name="leadTests.CreateLeadRecord"/>
+      <class name="leadTests.TestCreateLeadRecord"/>
       
     </classes>
   </test> <!-- Test -->
